@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "checkmark.circle.fill")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("Hello, Mohammad!")
             
             Button("Click Me"){}
                 .cornerRadius(.infinity)
